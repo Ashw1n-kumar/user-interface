@@ -6,12 +6,10 @@
 </head>
 <body>
 
-<!-- TOP BAR -->
 <div style="padding:15px; background:#4a90e2; color:white;">
     <strong>{{ $user->name }}</strong>
 </div>
 
-<!-- CONTENT -->
 <div style="padding:20px; max-width:500px; margin:auto;">
 
     <h3>Add Task</h3>
