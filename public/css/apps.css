@@ -1,0 +1,46 @@
+/* ---------- INDEX PAGE ---------- */
+.index-box {
+    text-align: center;
+}
+
+.index-box p {
+    margin: 15px 0 25px;
+    color: #555;
+    font-size: 14px;
+}
+
+.index-box a button {
+    margin-bottom: 12px;
+}
+
+/* ---------- LOGIN PAGE ---------- *//* ---------- INDEX PAGE ---------- */
+.index-box {
+    text-align: center;
+}
+
+.index-box p {
+    margin: 15px 0 25px;
+    color: #555;
+    font-size: 14px;
+}
+
+.index-box a button {
+    margin-bottom: 12px;
+}
+
+/* ---------- LOGIN PAGE ---------- */
+.login-box h1 {
+    margin-bottom: 20px;
+}
+
+.login-box input {
+    margin-bottom: 15px;
+}
+
+.login-box h1 {
+    margin-bottom: 20px;
+}
+
+.login-box input {
+    margin-bottom: 15px;
+}
